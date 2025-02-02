@@ -1,11 +1,11 @@
 # Hi, I am Shubham Gupta 👋  
 
 ## 💫 About Me  
-I am a passionate **Android Developer** specializing in **modern mobile app development**. I love building innovative and scalable applications using **Jetpack Compose, Kotlin, and Firebase**.  
+I am a passionate **Software Developer** with expertise in **Android Development, Web Technologies, and Backend Systems**.  
 
-With hands-on experience in **UI animations, NFC technology, and real-time database integration**, I enjoy creating smooth, interactive, and high-performance mobile experiences.  
+I love building **scalable and high-performance applications**, whether it's an interactive **mobile app** using **Jetpack Compose and Firebase** or a **web project** leveraging **Next.js and Tailwind CSS**.  
 
-I also explore **AR/VR, WebAR, and emerging technologies** to push the boundaries of mobile applications.  
+Currently exploring **NFC-based applications, AR/VR, and real-time data visualization** to create innovative digital experiences.  
 
 ---
 
@@ -15,28 +15,28 @@ I also explore **AR/VR, WebAR, and emerging technologies** to push the boundarie
 
 ---
 
-## 📱 Mobile App Development Tech Stack  
+## 🛠️ Tech Stack  
 
-### **🔹 Languages & Frameworks**  
+### **📱 Mobile App Development**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%230095D5.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)  
-![XML](https://img.shields.io/badge/XML-%23FF9800.svg?style=for-the-badge&logo=xml&logoColor=white)  
-
-### **🔹 Backend & Databases**  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Room Database](https://img.shields.io/badge/Room%20DB-%23FF6D00.svg?style=for-the-badge&logo=room&logoColor=white)  
 
-### **🔹 Android Architecture & Libraries**  
-![MVVM](https://img.shields.io/badge/MVVM-%232C3E50.svg?style=for-the-badge&logo=android&logoColor=white)  
-![LiveData](https://img.shields.io/badge/LiveData-%23FF9800.svg?style=for-the-badge&logo=android&logoColor=white)  
-![Coroutines](https://img.shields.io/badge/Coroutines-%2300C853.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Retrofit](https://img.shields.io/badge/Retrofit-%23E91E63.svg?style=for-the-badge&logo=android&logoColor=white)  
-![Glide](https://img.shields.io/badge/Glide-%2300ACC1.svg?style=for-the-badge&logo=android&logoColor=white)  
-![Hilt](https://img.shields.io/badge/Hilt-%23FF4081.svg?style=for-the-badge&logo=android&logoColor=white)  
+### **💻 Web Development**  
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-### **🔹 Tools & DevOps**  
+### **🗄️ Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### **🛠 Tools & DevOps**  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
@@ -44,7 +44,7 @@ I also explore **AR/VR, WebAR, and emerging technologies** to push the boundarie
 
 ---
 
-## 🚀 My Projects  
+## 🚀 Projects  
 
 ### **📌 TapNShare**  
 🔹 **NFC-powered Digital Business Card App**  
@@ -61,9 +61,13 @@ I also explore **AR/VR, WebAR, and emerging technologies** to push the boundarie
 🔹 Allows members to upload bills & admins to track payments  
 🔹 Used **Firebase Authentication, Realtime Database, and PDF Uploads**  
 
+### **📌 Tohfa**  
+🔹 **E-commerce Gift Store**  
+🔹 Features include **category-based filtering, Bootstrap UI, and FontAwesome icons**  
+
 ---
 
-## 📡 Emerging Technologies & Interests  
+## 🌟 Areas of Interest  
 ![NFC](https://img.shields.io/badge/NFC-%23009FBD.svg?style=for-the-badge&logo=nfc&logoColor=white)  
 ![Augmented Reality](https://img.shields.io/badge/Augmented%20Reality-%23E4405F.svg?style=for-the-badge&logo=google%20arcore&logoColor=white)  
 ![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)  
@@ -95,4 +99,4 @@ I also explore **AR/VR, WebAR, and emerging technologies** to push the boundarie
 
 ---
 
-🚀 **Building the Future of Mobile Apps!**  
+🚀 **Building the Future of Mobile & Web Apps!**  
