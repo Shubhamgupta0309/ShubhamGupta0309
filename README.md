@@ -1,4 +1,4 @@
-# Hi, I am Shubham Gupta 👋  
+# Hi, I'm Shubham Gupta 👋  
 
 ## 💫 About Me  
 I am a passionate **Software Developer** with expertise in **Android Development, Web Technologies, and Backend Systems**.  
@@ -82,7 +82,7 @@ Currently exploring **NFC-based applications, AR/VR, and real-time data visualiz
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGupta0309&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamgupta0309&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
 ---
